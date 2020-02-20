@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+.general {
+    height: 100%;
+    width: 100%;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  li {
+    float: right;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+  }
+
+  li a:hover {
+    background-color: #111;
+  }
+ul li a:hover {
+    border: 1px solid red !important;
+  }
+
+  .logo {
+      margin-left: 10px;
+      margin-top: 12px;
+  }
+  .back1 {
+      width: 100%;
+      height: 1017px;
+      background-image: url(../1HOUR/img/Layer\ 1.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin-top: -4%;
+
+  }
+  .div1 {
+      color: #ffffff;
+    width: 106px;
+    height: 100px;
+    border: 3px solid #ffffff;
+    margin-top: -30%;
+    margin-left: 43%;
+    font-family: sans-serif;
+    font-size: 29px;
+    font-weight: bold;
+  }
+  .div2 h1 {
+    color: #ffffff;
+    width: 30px;
+    height: 54px;  
+    padding: 50px;
+    margin-left: 773px; 
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 29px;
+    text-align: center;
+    margin-top: -3%;
+    
+  }
+  .border {
+    border-bottom: 4px solid #ffffff;
+    width: 6%;
+    margin-left: 824px;
+    margin-top: -21px;
+  }
+  .global1 {
+      background-color: #42363A;
+      height: 390px;
+      margin-top: 18%;
+  }
+  .global1 h1 {
+      color: #ffffff;
+  }
+  .global3 {
+      background-image: url('img/6.png');
+      height: 25%;  
+      width: 50%;
+  }
+
